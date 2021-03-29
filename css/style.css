@@ -2323,7 +2323,8 @@ ul {
   /* line 151, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_menu.scss */
   .main_menu .main-menu-item .nav-item .nav-link {
     padding: 5px 15px !important;
-    color: #000;
+    color: rgb(235, 226, 226);
+    
   }
   /* line 158, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_menu.scss */
   .navbar-collapse {
