@@ -4785,8 +4785,8 @@ h6 {
 /* line 40, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_breadcrumb.scss */
 .breadcrumb .breadcrumb_iner .breadcrumb_iner_item h2 {
   color: #fff;
-  font-size: 80px;
-  font-weight: 500;
+  font-size: 60px;
+  font-weight: 600;
   margin-bottom: 10px;
   text-transform: capitalize;
 }
