@@ -2203,6 +2203,9 @@ ul {
 /* line 42, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_menu.scss */
 .main_menu .social_icon {
   margin-top: 8px;
+  
+  
+
 }
 
 /* line 45, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_menu.scss */
@@ -4727,6 +4730,7 @@ h6 {
   .footer_Part .social_icon {
     text-align: center;
     margin-top: 30px;
+    
   }
 }
 
